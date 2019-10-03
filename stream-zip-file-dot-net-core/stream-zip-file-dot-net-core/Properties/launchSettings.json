@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "stream_zip_file_dot_net_core": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "api/download-zip-file",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
